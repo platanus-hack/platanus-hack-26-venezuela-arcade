@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: Caracas Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "game_name": "Godzilla Maracucho",
+  "description": "Un juego arcade de Godzilla en Maracaibo esquivando el calor y rayos del Catatumbo.",
+  "player_mode": "single_player"
 }
